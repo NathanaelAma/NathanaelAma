@@ -1,10 +1,5 @@
 <div align="center">
-    ![Metrics](/github-metrics.svg)
-</div>
-
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://github.com/user-attachments/assets/72522c8d-7ed7-475e-a98a-fa6e1f4cca9d"  />
 </div>
 
 ###
@@ -130,8 +125,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://spotify-readme-stats-henna.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+  <a href="https://open.spotify.com/user/highvoltage64">
+      <img src="https://spotify-readme-stats-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Widget with the current Spotify song"  />
+  </a>
 </div>
+
 
 ###
 
