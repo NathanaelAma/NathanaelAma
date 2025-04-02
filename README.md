@@ -126,15 +126,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/highvoltage64">
-      <img src="https://spotify-readme-stats-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Widget with the current Spotify song"  />
-  </a>
-</div>
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/highvoltage64">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=highvoltage64&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
